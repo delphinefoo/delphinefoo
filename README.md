@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a full stack developer from 🇨🇦 Montreal, Canada living in California.
+I'm a full stack developer from 🇨🇦 Montreal, Canada living in 🏝 California.
 
 ⚡ Fun fact: I run a [Surf Film Festival](http://www.santacruzsurffilmfest.com/)
 
