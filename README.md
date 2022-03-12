@@ -4,8 +4,6 @@ I'm a full stack developer from 🇨🇦 Montreal, Canada living in 🏝 Califor
 
 ⚡ Fun fact: I run a [Surf Film Festival](http://www.santacruzsurffilmfest.com/)
 
-![Octocat](octocat-small.png)
-
 <!--
 **delphinefoo/delphinefoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
